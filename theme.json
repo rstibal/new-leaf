@@ -9,6 +9,7 @@
             "wideSize": "1140px"
         },
         "typography": {
+            "defaultFontSizes": false,
             "fontSizes": [
                 {
                     "slug": "small",
@@ -51,7 +52,7 @@
         "elements": {
             "link": {
                 "color": {
-                    "text": "var(--wp--preset--color--vivid-cyan-blue)"
+                    "text": "var(--wp--preset--color--vivid-purple)"
                 }
             }
         }
